@@ -4,7 +4,7 @@
 menu::menu(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::menu)
-{///
+{//
 
     ui->setupUi(this);
 
